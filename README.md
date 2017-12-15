@@ -1,4 +1,4 @@
-# CS7NS1 Submission - Individual Project - Distributed File System, Student ID: 17306521
+# CS7NS1 Individual Project - Distributed File System, Student ID: 17306521
 
 To deliver a distributed file system implementation.
 
