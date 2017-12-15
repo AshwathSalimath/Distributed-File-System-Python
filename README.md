@@ -4,7 +4,7 @@ To deliver a distributed file system implementation.
 
 `Note: I am still working on this. I will provide documentation about Working of the Project soon.` 
 
-# List of Implemented Modules
+# List of Developed Modules
 
 
 1. Distributed Transparent File Access 
