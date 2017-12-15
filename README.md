@@ -1,8 +1,10 @@
 # CS7NS1 Individual Project - Distributed File System, Student ID: 17306521
 
-To deliver a distributed file system implementation.
+To deliver a distributed file system implementation. 
 
-# List of implemented modules
+`Note: I am still working on this. I will provide documentation about Working of the Project soon.` 
+
+# List of Implemented Modules
 
 
 1. Distributed Transparent File Access 
@@ -20,3 +22,4 @@ Caching is a vital element of any file system design that is required to give go
 4. Lock Service 
 
 This server simply holds a semaphore for each file it is told about. Any client wishing to access a file could simply ask for access from the lock server. 
+
